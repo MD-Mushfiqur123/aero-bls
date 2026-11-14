@@ -1,6 +1,6 @@
 # AERO-BLS — Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA Airfoils at Low Reynolds Number
 
-[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FXTEQ7-blue)](https://doi.org/10.17605/OSF.IO/XTEQ7)
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.35011558-blue)](https://doi.org/10.6084/m9.figshare.35011558)
 
 A fully scripted, reproducible CFD study of boundary-layer separation, transition,
 and stall on the NACA 0012, 2412, and 4412 sections, with the passive-device
@@ -150,6 +150,6 @@ Turbulence Modeling Resource: <https://tmbwg.github.io/turbmodels/naca0012_val.h
 
 If you use this research, software, or data, please cite:
 
-> Rahim, Md Mushfiqur (2026). *Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA 4-Digit Airfoils at Low Reynolds Number: A Validated 2D Study with k–ω SST and γ–Reθt Closures*. DOI: [10.17605/OSF.IO/XTEQ7](https://doi.org/10.17605/OSF.IO/XTEQ7)
+> Rahim, Md Mushfiqur (2026). *Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA 4-Digit Airfoils at Low Reynolds Number: A Validated 2D Study with k–ω SST and γ–Reθt Closures*. DOI: [10.6084/m9.figshare.35011558](https://doi.org/10.6084/m9.figshare.35011558) (Figshare, primary) · [10.17605/OSF.IO/XTEQ7](https://doi.org/10.17605/OSF.IO/XTEQ7) (OSF, mirror)
 
 See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata (GitHub's "Cite this repository" button uses it).
