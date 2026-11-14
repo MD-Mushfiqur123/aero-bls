@@ -5,8 +5,11 @@ authors:
   - family-names: Rahim
     given-names: Md Mushfiqur
     orcid: "https://orcid.org/0009-0003-1021-685X"
-doi: 10.17605/OSF.IO/XTEQ7
+doi: 10.6084/m9.figshare.35011558
 identifiers:
+  - type: doi
+    value: 10.6084/m9.figshare.35011558
+    description: "Figshare (primary DOI) of the AERO-BLS paper and release package"
   - type: doi
     value: 10.17605/OSF.IO/XTEQ7
     description: "OSF archive of the AERO-BLS paper and release package"
