@@ -13,7 +13,7 @@ identifiers:
   - type: doi
     value: 10.17605/OSF.IO/XTEQ7
     description: "OSF archive of the AERO-BLS paper and release package"
-repository-code: "https://github.com/md-mushfiqur-rahim123-official/aero-bls"
+repository-code: "https://github.com/MD-Mushfiqur123/aero-bls"
 license: CC-BY-4.0
 version: 1.0.0
 date-released: "2026-11-14"
