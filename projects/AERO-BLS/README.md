@@ -1,5 +1,7 @@
 # AERO-BLS — Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA Airfoils at Low Reynolds Number
 
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FXTEQ7-blue)](https://doi.org/10.17605/OSF.IO/XTEQ7)
+
 A fully scripted, reproducible CFD study of boundary-layer separation, transition,
 and stall on the NACA 0012, 2412, and 4412 sections, with the passive-device
 question retained as an explicit **2D negative control** (Appendix D of the paper).
@@ -142,3 +144,12 @@ python3 poster/make_poster.py                 # poster/poster.html (A0 landscape
 All experimental reference files in `data/experimental/` are U.S. Government
 works (public domain) digitized and distributed by the NASA Langley
 Turbulence Modeling Resource: <https://tmbwg.github.io/turbmodels/naca0012_val.html>.
+
+
+## Cite
+
+If you use this research, software, or data, please cite:
+
+> Rahim, Md Mushfiqur (2026). *Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA 4-Digit Airfoils at Low Reynolds Number: A Validated 2D Study with k–ω SST and γ–Reθt Closures*. DOI: [10.17605/OSF.IO/XTEQ7](https://doi.org/10.17605/OSF.IO/XTEQ7)
+
+See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata (GitHub's "Cite this repository" button uses it).

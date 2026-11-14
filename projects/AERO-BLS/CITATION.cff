@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this research, software, or data, please cite it as below."
+title: "Transition-Sensitive RANS Modelling of Boundary-Layer Separation on NACA 4-Digit Airfoils at Low Reynolds Number: A Validated 2D Study with k–ω SST and γ–Reθt Closures"
+authors:
+  - family-names: Rahim
+    given-names: Md Mushfiqur
+    orcid: "https://orcid.org/0009-0003-1021-685X"
+doi: 10.17605/OSF.IO/XTEQ7
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/XTEQ7
+    description: "OSF archive of the AERO-BLS paper and release package"
+repository-code: "https://github.com/md-mushfiqur-rahim123-official/aero-bls"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-11-14"
+keywords:
+  - computational fluid dynamics
+  - RANS
+  - k-omega SST
+  - transition modelling
+  - boundary-layer separation
+  - stall
+  - NACA airfoils
+  - OpenFOAM
+  - URANS
